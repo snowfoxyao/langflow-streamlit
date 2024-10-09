@@ -32,7 +32,7 @@ def reload_messages():
 
 reload_messages()
 
-st.title("Welcome to My Streamlit Chat Application")
+st.title("Fleet AI Consultant")
 
 def callback(*args, **kwargs):
     pass
